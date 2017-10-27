@@ -1,3 +1,8 @@
 What happens when you initialize a repository?  Why do you need to do?
 
 	you run git init to creat it.
+
+How is the staging area different from the working directory and the repository?  What value do you think if offers?
+
+	the staging area allows you to commit only some files to the repository, not the entore directory.  it allows you to confine commits to only logical changes better.
+
